@@ -45,7 +45,7 @@ You need a simple local web server to serve the files. If you have Node.js insta
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:Wilco-Labs/Noah-Tam.git
     cd <repository-directory>
     ```
 
