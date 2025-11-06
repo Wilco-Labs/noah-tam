@@ -1,0 +1,5 @@
+{
+  "name": "ICAO NOTAM Builder",
+  "description": "A step-by-step wizard to create and format ICAO NOTAMs. This tool helps generate NOTAM text for various aviation scenarios without submitting to external systems.",
+  "requestFramePermissions": []
+}
